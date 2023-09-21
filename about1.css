@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+.container22{
+
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+}
+.first{
+    width: 50vw;
+}
+
+.first p{
+    line-height: 30px;
+    padding: 40px;
+    font-size: 20px;
+}
+.firstimage{
+    width: 50vw;
+}
+.firstimage img{
+    width: 400px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 30px;
+
+    height: 300px;
+    margin-left: 150px;
+}
+
+
+.secondimage{
+    width: 50vw;
+}
+.secondimage img{
+    width: 700px;
+    height: 700px;
+    padding: 20px;
+    /* background-color: black; */
+    border-radius: 30px;
+
+    height: 300px;
+    /* margin-left: -20px; */
+}
+
+#kgf{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.second{
+    width: 50vw;
+    padding: 90px;
+
+}
+.second ul{
+    margin-top: 20px;
+}
+
+.second p{
+    line-height: 30px;
+    /* padding: 40px; */
+    font-size: 20px;
+}
+
+.second .rrr{
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+ /* .third{
+    width: 50vw;
+    height: 500px;
+   margin-left: 50vw;
+    /* align-items: center; */
+}
+/* .third{
+    background-image: url(new-vidhansabha-ranchi-jharkhand_193751-111.avif);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-attachment: ; */
+
+/* } */  
+
+/* .container33 {
+
+    display: flex;
+    justify-content: space-between;
+    /* background-color: black; */
+    /* align-items: center; */
+  }
+/*   
+  .third {
+    width: 50%;
+  }
+  
+  .third p {
+    line-height: 30px;
+    padding: 40px;
+    font-size: 20px;
+  }
+  
+  .thirdimage {
+    width: 50%;
+  }
+  
+  .thirdimage img {
+    width: 400px;
+    padding: 20px;
+    border-radius: 30px;
+    height: 300px;
+  }
+  
+  .thirdimage img {
+    margin-left: auto;
+    margin-right: auto;
+  } */ 
+  
+  /* .cont11 {
+     display: flex; 
+    width: 300px;
+    justify-content: space-between; 
+
+  } 
+
+  .cont11 .thirdimage{
+    margin-top: 50px !important;
+  }
+  .third{
+    width: 50%;
+    margin-top: 10px;
+  }
+  .third p {
+    line-height: 30px;
+    padding: 40px;
+    margin-top: 50px !important;
+
+    font-size: 20px;
+  }
+
+  .thirdimage{
+    width: 49%;
+    /* background-color: black;? */
+    /* width: 400px;
+    height: 300px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 20px; */
+  /* } */
+
+  /* .thirdimage img {
+    width: 400px;
+    padding: 20px;
+    border-radius: 30px;
+    height: 300px;
+  } */
+  /* .thirdimage img {
+    margin-left: 60vw; */
+    /* margin-right: 0px; */
+    /* margin-top: 10px; */
+  /* } */
+
+
+
+
+
+  /* Footer Styles */
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+.container1 {
+ display: flex;
+ justify-content: space-between; 
+ align-items: center;
+ background-color: #333;
+ padding: 20px;
+ overflow: hidden; 
+    }
+    
+   
+    .box {
+ flex: 0 0 auto; 
+ padding: 10px; 
+ transition: transform 0.2s; 
+    }
+    
+   
+    firstimage1{
+      background-color: non;
+    }
+    .box img {
+ max-width: 100%; 
+ height: auto; 
+ display: block;
+    }
+    
+  
+    .box:hover {
+    transform: scale(1.1); /* Scale the box when hovered */   
+    } 
+
+
+
+footer {
+    background-color: #1b1f24;
+    color: #ffffff;
+    padding: 40px 0;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.about, .useful-links, .important-contacts {
+    flex: 1;
+    padding: 20px;
+}
+h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+p {
+    line-height: 1.4;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    margin-bottom: 10px;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
