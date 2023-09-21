@@ -373,31 +373,31 @@ span{
   body {
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Change this to your desired background color */
+    background-color: #f0f0f0; 
 }
 
 .addprojects {
   position: fixed;
-  bottom: 20px; /* Adjust the distance from the bottom as needed */
-  right: 20px; /* Adjust the distance from the right as needed */
+  bottom: 20px; 
+  right: 20px; 
   width: 80px;
   height: 80px;
   border-radius: 50%;
   background-color: #000;
   text-align: center;
-  transition: background-color 0.3s ease; /* Adding a hover effect */
+  transition: background-color 0.3s ease; 
 }
 
 .addprojects i {
   font-size: 40px;
-  color: #fff; /* Change the color of the icon */
+  color: #fff;
   line-height: 80px;
   
 }
 
 .addprojects:hover {
   background-color: #333;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 2);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 4);
   transform: scale(1.05);
    /* Change the background color on hover */
 }
